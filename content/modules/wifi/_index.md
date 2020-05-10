@@ -18,7 +18,7 @@ The interface only needs to support monitor mode and packet injection, it'll be 
 {{% /notice %}}
 
 {{% notice note %}}
-This modules are natively supported on macOS with the default interface `en0`. Just make sure the interface is not connected to any WiFi network and then start bettercap with:
+This module is natively supported on macOS with the default interface `en0`. Just make sure the interface is not connected to any WiFi network and then start bettercap with:
 <br/>
 `sudo bettercap -iface en0`
 {{% /notice %}}
